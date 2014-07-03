@@ -1,0 +1,3 @@
+这是一个spring结合activemq的例子
+
+更多关于activemq学习的材料请参考：www.xiangnong312.com
